@@ -1,6 +1,6 @@
 const Ajv = require("ajv");
 const ajv = new Ajv();
-
+//update
 function validatemydata(data) {
   const schema = {
     type: "object",
